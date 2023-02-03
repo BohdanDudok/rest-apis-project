@@ -6,3 +6,4 @@ flask-sqlalchemy==3.0.3
 flask-jwt-extended
 passlib
 flask-migrate
+qunicorn
